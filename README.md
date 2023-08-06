@@ -30,5 +30,5 @@ A simple program to print the value of a potentiometer using an ESP32
 
 - Download Arduino IDE
 - Wire ESP32 board as shown in 'Wiring Diagram'
-- Input code under 'Main'
+- Input code in 'POTENTIOMETERESP32.ino' under 'Main'
 - Enjoy!
