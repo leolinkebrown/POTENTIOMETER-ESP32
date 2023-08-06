@@ -6,7 +6,7 @@ A simple program to print the value of a potentiometer using an ESP32
 
 ### Wiring Diagram
 
-
+https://github.com/leolinkebrown/POTENTIOMETER_ESP32/blob/5a8321156ee9b1c00ae3c24c599850b0bfcdc0ba/PXL_20230806_043046734.jpg
 
 ### Demonstration
 
