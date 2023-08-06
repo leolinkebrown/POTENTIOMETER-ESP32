@@ -1,4 +1,4 @@
-# Potentiometer ESP32
+# POTENTIOMETER-ESP32
 
 A simple program to print the value of a potentiometer using an ESP32
 
