@@ -32,3 +32,8 @@ First, the variable of the pin for the potentiometer is set at D4, but this can 
 - Wire ESP32 board as shown in 'Wiring Diagram'
 - Input code in 'POTENTIOMETERESP32.ino' under 'Main'
 - Enjoy!
+
+## Bibliography
+
+- ESP32 Tutorial. (n.d.). ESP32 - Potentiometer. [online] Available at: https://esp32io.com/tutorials/esp32-potentiometer.
+- Anon, (2019). ESP32 Analog Input with Arduino IDE | Random Nerd Tutorials. [online] Available at: https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/.
